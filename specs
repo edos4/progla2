@@ -1,0 +1,30 @@
+// Menu
+ 1 - Input Record
+ 2 - Display Records
+ 3 - Search
+
+// 1 writes to "input.txt" after every input. kayo bahala sa kung anong record ilalagay basta dapat may isang private variable
+ Enter name:
+ Enter field 2:
+ Enter field n:
+
+//2 reads from "input.txt" and puts data to a class array
+
+Record 1:
+ name:
+ field 2:
+ field n:
+ ...
+ Record n:
+ name:
+ field 2:
+ field n: 
+
+//3
+ Enter record name to be searched: Love
+ //Example, if found display:
+ Record 3:
+ name: Love
+ type: Fantasy
+ difficulty: Nightmare
+ // If not found, display "Love not found"
